@@ -17,5 +17,5 @@ As my subjects were majoritarily in FORTRAN, that is the language that will reig
 9. High Dimensional Monte Carlo Integration *[FORTRAN]*
 10. N Level System RK4 *[FORTRAN]*
 11. Fourier Transform RK4 *[FORTRAN]*
-12. 2d Ising Model via Monte Carlo Simulation with the Metropolis Rule *[FORTRAN]*
+12. 2D Ising Model via Monte Carlo Simulation with the Metropolis Rule *[FORTRAN]*
 13. (...)
