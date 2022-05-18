@@ -1,4 +1,4 @@
-# computacional_physics
+# computational_physics
 
 ---
 
